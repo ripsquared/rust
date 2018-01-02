@@ -1,0 +1,1 @@
+{"rustc":8291033049748019918,"features":"[]","target":17735612561471151519,"profile":12472537617123984595,"deps":[["rand v0.3.18",16636265927607382413],["rand v0.3.18",13080454686369184704]],"local":[{"Precalculated":"1514860863.000000000s (/Users/ripkahlon/dev/rust/projects/guessing_game/src/main.rs)"}],"rustflags":[]}
